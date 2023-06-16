@@ -12,3 +12,5 @@ yahoo.com
 This will display the uptimes in the form of numbers (0 or 1), and the amount of numbers displayed or how many times to check can be changed in the java files (*Status.java* for # of numbers displayed, and *App.java* for  how often to ping.)
 
 It will display it in an html file so that it is viewable in the web browser.
+
+The purpose of this program is to be a very crude and lightweight program similar to those of status uptime servers, such as [uptimerobot](status.uptimerobot.com).
