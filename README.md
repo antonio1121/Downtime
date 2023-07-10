@@ -13,4 +13,6 @@ This will display the uptimes in the form of numbers (0 or 1), and the amount of
 
 It will display it in an html file so that it is viewable in the web browser.
 
+All the ping tasks are parallelized, so that this program is scalable to check a large number of addresses without being bottlenecked.
+
 The purpose of this program is to be a very crude and lightweight program similar to those of status uptime servers, such as [uptimerobot](status.uptimerobot.com).
